@@ -1,0 +1,21 @@
+{
+  "name": "hello-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "clone": "^2.1.1"
+  },
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
