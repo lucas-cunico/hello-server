@@ -16,6 +16,6 @@
     "start": "nodemon start"
   },
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "^2.0.13"
   }
 }
